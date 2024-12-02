@@ -1,0 +1,32 @@
+body{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin: 0%;
+padding: 0%;
+background-color: rgb(162, 80, 54);}
+header{
+background-color: #febbac;
+color: rgb(0, 0, 0);
+padding: 20px;
+text-align: center;}
+header nav ul{
+padding: 0%;
+margin: 0%;
+display: flex;
+justify-content: center;
+gap: 30px;} 
+header nav ul li{
+display: inline;}
+header nav ul li a{ 
+color: firebrick;
+text-decoration: none;} 
+section img {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 80px;}
+ footer {
+    background-color: #febbac;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;}   
